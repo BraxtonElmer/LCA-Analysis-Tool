@@ -1,0 +1,48 @@
+# Backend Dependencies
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+psycopg2-binary==2.9.7
+django-extensions==3.2.3
+celery==5.3.4
+redis==5.0.1
+
+# Database
+neon-postgres==0.1.0
+
+# AI/ML Dependencies
+torch==2.1.0
+torchvision==0.16.0
+scikit-learn==1.3.2
+pandas==2.1.3
+numpy==1.25.2
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.17.0
+
+# Data Processing
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+lxml==4.9.3
+beautifulsoup4==4.12.2
+
+# OpenLCA Integration
+py4j==0.10.9.7
+olca-ipc==0.0.12
+
+# Natural Language Processing
+transformers==4.35.2
+nltk==3.8.1
+
+# Additional utilities
+python-dotenv==1.0.0
+Pillow==10.1.0
+reportlab==4.0.7
+fpdf2==2.7.6
+python-docx==1.1.0
+
+# Development
+black==23.11.0
+flake8==6.1.0
+pytest==7.4.3
+pytest-django==4.7.0
