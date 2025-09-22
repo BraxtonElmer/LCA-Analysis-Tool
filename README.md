@@ -1,17 +1,14 @@
 # AI-Driven Life Cycle Assessment (LCA) & Circularity Tool
 
-This is a comprehensive AI-powered Life Cycle Assessment platform designed specifically for the metallurgy and mining sector, focusing on aluminium, copper, and critical minerals.
+This is a comprehensive AI-powered Life Cycle Assessment platform designed specifically for the metallurgy and mining sector.
 
 ## Database Connection
 
-**NeonDB Connection URL:**
-```
-postgresql://neondb_owner:npg_nQUD6FSfA0mP@ep-odd-snow-a10f67qx-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
-```
+**Using NeonD Connection String**
 
 ## Features
 
-### 🎯 Core Capabilities
+### Core Capabilities:
 - **Intuitive Dashboard** - Visual overview of projects, environmental impacts, and circularity metrics
 - **AI-Powered Analysis** - Machine learning models for parameter estimation and optimization suggestions
 - **Circularity Assessment** - Comprehensive circular economy indicators and improvement strategies
@@ -19,7 +16,7 @@ postgresql://neondb_owner:npg_nQUD6FSfA0mP@ep-odd-snow-a10f67qx-pooler.ap-southe
 - **Scenario Comparison** - Compare linear vs circular pathways side-by-side
 - **Automated Reporting** - Generate ESG-compliant sustainability reports
 
-### 🔧 Technical Features
+### Technical Features:
 - **Material Database** - Comprehensive database with environmental impact factors
 - **Process Modeling** - Drag-and-drop workflow design for metal life cycles
 - **OpenLCA Integration** - Connect to industry-standard LCA databases
@@ -27,7 +24,7 @@ postgresql://neondb_owner:npg_nQUD6FSfA0mP@ep-odd-snow-a10f67qx-pooler.ap-southe
 - **Interactive Visualizations** - Sankey diagrams, circularity loops, and impact charts
 - **API Integration** - REST/GraphQL endpoints for external integrations
 
-### 🤖 AI Components
+### AI Components:
 - **Parameter Prediction** - AI models predict missing process values
 - **Recommendation Engine** - Suggests circular economy improvements
 - **Sensitivity Analysis** - Identify most impactful parameters
